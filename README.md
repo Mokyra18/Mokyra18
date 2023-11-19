@@ -1,5 +1,7 @@
 ### Hello I'm Mochammad Rizky Ramadhani 🚀
 
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mokyra18&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
 
 - 👨‍🎓 I'm currently an Informatics Engineering student at UIN Sunan Gunung Djati Bandung 
