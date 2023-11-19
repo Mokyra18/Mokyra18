@@ -6,10 +6,10 @@
 </div><br>
 
 ### Tropy :
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mokyra18" alt="codeesh" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mokyra18" alt="Mokyra18" /></a> </p>
 
 ### Stats :
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mokyra18&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mokyra18&show_icons=true&include_all_commits=true&theme=default" alt="Mokyra18 github stats"/>
 
 ### Languages :
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mokyra18&layout=compact&theme=default"/>
