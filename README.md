@@ -5,8 +5,10 @@
   - 👨‍🎓 I'm currently an Informatics Engineering student at UIN Sunan Gunung Djati Bandung 
 </div><br>
 
+### Tropy :
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Mokyra18" alt="codeesh" /></a> </p>
 
+### Stats :
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mokyra18&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
 
 ### Languages :
