@@ -17,3 +17,11 @@
 <br>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
+### Thanks for Visiting my GitHub Profile!
+
+---
+
+<p align="center">
+<img src="https://github.com/Mokyra18/Mokyra18/blob/main/github-contribution-grid-snake.svg">
+</p>
