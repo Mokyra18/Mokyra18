@@ -21,9 +21,7 @@
 
 ### Thanks for Visiting my GitHub Profile!
 <p align="center">
-<img src="https://github.com/Mokyra18/Mokyra18/blob/main/github-contribution-grid-snake.svg">
+<img src="github-contribution-grid-snake-dark.svg">
 </p>
 
-
-
-[![](https://visitcount.itsvg.in/api?id=Mokyra18&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mokyra18&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
