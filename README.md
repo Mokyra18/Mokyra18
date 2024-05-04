@@ -1,4 +1,8 @@
-![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif">
+  </a>
+</p>
 
 <h1 align="center">Hi 👋, I'm Mochammad Rizky Ramadhani</h1>
 
@@ -18,6 +22,13 @@
 ### Stats :
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mokyra18&show_icons=true&include_all_commits=true&theme=default" alt="Mokyra18 github stats"/>
 
+<details open>
+
+  <summary>Currently listening 🎶</summary>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31zirivkht6pzliol5bzln4qgv7i&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31zirivkht6pzliol5bzln4qgv7i&redirect=true)
+
+</details>
 
 ### Thanks for Visiting my GitHub Profile!
 <p align="center">
